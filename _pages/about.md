@@ -14,6 +14,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-m a software engineer at Slack, with previous roles at WhatsApp/Facebook (Meta) and Menlo Security. Originally from London, UK, I now call Vancouver home. I studied computer science at the University of Edinburgh.
+I am software engineer at Slack, with previous roles at WhatsApp/Facebook (Meta) and Menlo Security. Originally from London, UK, I now call Vancouver home. I studied computer science at the University of Edinburgh in the school of Informatics.
 
-Beyond coding, I'm passionate about skiing, indoor bouldering, hiking, and football. I've also had the privilege of playing football with Brentford FC and Cardiff FC development squads.
+Beyond software development, I'm passionate about skiing, indoor bouldering, hiking, and football. I've also had the privilege of playing football with Brentford FC and Cardiff FC development squads.
