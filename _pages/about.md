@@ -6,7 +6,7 @@ subtitle: <a href='#'>www.slack.com</a>. Vancouver.
 
 profile:
   align: right
-  image: dog.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
