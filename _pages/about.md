@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: /
+permalink: https://danjwilks.github.io/
 
 profile:
   align: right
